@@ -6,8 +6,8 @@ This program splits the original image into small, font-sized pieces, and simply
 ---
 
 ### TODO
-**[] Improve Command line Options**
-[] Image preprocessing options(Resizing, Contrast, ...etc)
-[] Caching font data
-[] Multi-threading(if it is fast.)
-[] Support non fixed-width font(Maybe..?)
+- **[] Improve Command line Options**
+- [] Image preprocessing options(Resizing, Contrast, ...etc)
+- [] Caching font data
+- [] Multi-threading(if it is fast.)
+- [] Support non fixed-width font(Maybe..?)
